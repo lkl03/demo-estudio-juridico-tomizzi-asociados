@@ -1,2 +1,7 @@
-# demo-estudio-juridico-tomizzi-asociados
-Demo web para Estudio Jurídico Tomizzi &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Tomizzi & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
